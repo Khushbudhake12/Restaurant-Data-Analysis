@@ -45,10 +45,5 @@ Votes Analysis: Identify restaurants with the highest and lowest votes and analy
 
 Price Range vs. Services: Analyze the relationship between price range and the availability of online delivery and table booking services.
 
-**Technologies Used**
 
-Languages: Python
-
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-
-Tools: Jupyter Notebook, Git
+**"Thank you for exploring "**
